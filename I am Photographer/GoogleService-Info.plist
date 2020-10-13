@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>231541948602-2ekmdfa57vrrgo37g9np14h4fjgmepkg.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.231541948602-2ekmdfa57vrrgo37g9np14h4fjgmepkg</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAL9o7J01ICmw_327QFjRpnxccokfHRHes</string>
+	<key>GCM_SENDER_ID</key>
+	<string>231541948602</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.codewithCoolBeans.I-am-Photographer</string>
+	<key>PROJECT_ID</key>
+	<string>posetography-99570</string>
+	<key>STORAGE_BUCKET</key>
+	<string>posetography-99570.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<true/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:231541948602:ios:767d39782e4dfeec0c0283</string>
+	<key>DATABASE_URL</key>
+	<string>https://posetography-99570.firebaseio.com</string>
+</dict>
+</plist>
